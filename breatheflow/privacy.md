@@ -8,7 +8,7 @@ BreatheFlow is published by Fulgor Studio ("we"). Contact: fulgorstudio7@gmail.c
 Your choices (technique, time, shape, colors, sound), session days and reminder time are stored only on your device. We have no accounts and no servers of our own, and we cannot see this information.
 
 ## Advertising
-The free version shows banner ads from Google AdMob. Google may process device identifiers, IP address and usage data to deliver and measure ads. Where the law requires it, we ask for your consent first, and you can decline. See https://policies.google.com/privacy
+BreatheFlow shows no ads and does not track you.
 
 ## Purchases
 Purchases are handled by the App Store and managed through RevenueCat, which receives an anonymous app user ID and your purchase history. We never see your payment details. See https://www.revenuecat.com/privacy
