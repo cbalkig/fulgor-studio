@@ -147,7 +147,7 @@ section { padding: 40px 0; }
 .section-head p { color: var(--muted); margin: 10px auto 0; max-width: 560px; }
 
 /* ---------- App cards ---------- */
-.apps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
+.apps { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; max-width: 900px; margin: 0 auto; }
 .app-card {
   position: relative; display: flex; flex-direction: column;
   padding: 28px; border-radius: var(--radius);
@@ -178,6 +178,7 @@ section { padding: 40px 0; }
 }
 .links a:hover { background: rgba(255,255,255,0.11); color: var(--text); }
 
+.accent-chroma { --accent: #7b5cff; --accent-text: #c4b5fd; }
 .accent-snap { --accent: #22d3ee; --accent-text: #67e8f9; }
 .accent-haptic { --accent: #a855f7; --accent-text: #d8b4fe; }
 .accent-breathe { --accent: #2dd4bf; --accent-text: #5eead4; }
